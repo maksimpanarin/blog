@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"resources"
+			],
+			[
+				"A",
+				"ANSWERS"
+			],
+			[
+				"p",
+				"photo"
+			],
+			[
+				"li",
+				"line_reverse"
+			],
+			[
+				"se",
+				"serve"
+			],
+			[
+				"b",
+				"bad_pass"
+			],
+			[
+				"f",
+				"first_player"
+			],
+			[
+				"ki",
+				"kill"
+			],
+			[
+				"g",
+				"good_pass"
+			],
+			[
+				"opp",
+				"opponent_error"
+			],
+			[
+				"a",
+				"attack"
+			],
+			[
+				"bl",
+				"Block"
+			],
+			[
+				"att",
+				"attempt"
+			],
+			[
+				"dee",
+				"defense"
+			],
+			[
+				"di",
+				"dig"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control",
+		"selected_items":
+		[
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"rails",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/qa6/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/qa6/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/qa6/Rails/blog/config/routes.rb",
+		"/home/qa6/Rails/blog/app/controllers/posts_controller.rb",
+		"/home/qa6/.gemrc",
+		"/etc/apt/sources.list",
+		"/home/qa6/Downloads/4:03 - Я смотрю на небо",
+		"/home/qa6/Documents/Ruby/Rails/8ball/Gemfile",
+		"/home/qa6/Documents/Ruby/Rails/8ball/Procfile.rb",
+		"/home/qa6/Documents/Ruby/Rails/8ball/main.rb",
+		"/usr/bin/caffeinate",
+		"/usr/bin/caffeine-screensaver",
+		"/home/qa6/Documents/StatWiz/binance",
+		"/home/qa6/Downloads/qqq/cpuminer-multi/cryptonight.h",
+		"/home/qa6/Downloads/qqq/cpuminer-multi/Dockerfile",
+		"/home/qa6/Downloads/qqq/cpuminer-multi/cpuminer-config.h",
+		"/home/qa6/Downloads/qqq/cpuminer-multi/autogen.sh",
+		"/home/qa6/Downloads/qqq/cpuminer-multi/config.sub",
+		"/home/qa6/Downloads/qqq/cpuminer-multi/config.log",
+		"/home/qa6/Downloads/qqq/cpuminer-multi/config.status",
+		"/home/qa6/Downloads/qqq/cpuminer-multi/configure",
+		"/home/qa6/Downloads/qqq/cpuminer-multi/configure.ac",
+		"/home/qa6/Documents/StatWiz/Point Differential and Win-Loss Record.txt",
+		"/home/qa6/Documents/StatWiz/match_requst",
+		"/home/qa6/Documents/StatWiz/Sideout Factors.txt",
+		"/home/qa6/Documents/StatWiz/Point Differential:",
+		"/home/qa6/Documents/Ruby/sample.xml",
+		"/home/qa6/Documents/StatWiz/match_responce",
+		"/home/qa6/Documents/Ruby/pyramid.rb",
+		"/home/qa6/Documents/StatWiz/reports_spec_1.rb",
+		"/home/qa6/Documents/StatWiz/reports_spec.rb",
+		"/home/qa6/Documents/Ruby/age.rb",
+		"/home/qa6/Documents/Ruby/test.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "Gemfile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
