@@ -7,7 +7,8 @@ gem 'rails', '4.2.7.1' #Old version 4.0.6
 gem 'sqlite3'
 
 # Use SCSS for stylesheets
-gem 'sass', '~> 3.5.2'
+#gem 'sass', '~> 3.5.2'
+gem 'sass-rails', '~> 5.0'
 gem 'bootstrap', '~> 4.0.0'
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 source 'https://rails-assets.org' do
